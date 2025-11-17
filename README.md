@@ -80,7 +80,7 @@
 
 - [How to study math — Jo Boaler](https://www.youtube.com/watch?v=pRsutB2NhLk&list=TLPQMjkwNzIwMjND3tvET8TH0g&index=2&ab_channel=LexClips)
 - [How To Self-Study Math](https://www.youtube.com/watch?v=fb_v5Bc8PSk&list=TLPQMjkwNzIwMjND3tvET8TH0g&index=3&ab_channel=TheMathSorcerer)
-- [How to learn physics & math](https://www.youtube.com/watch?v=klEFaIZuiYk&list=TLPQMjkwNzIwMjND3tvET8TH0g&index=4&ab_channel=Tibees)
+- [How to learn physics &amp; math](https://www.youtube.com/watch?v=klEFaIZuiYk&list=TLPQMjkwNzIwMjND3tvET8TH0g&index=4&ab_channel=Tibees)
 - [Best Way to Learn Math](https://www.youtube.com/watch?v=zvrleanEYOw&list=TLPQMjkwNzIwMjND3tvET8TH0g&index=5&ab_channel=LexClips)
 - [How to learn math — Jordan Ellenberg](https://www.youtube.com/watch?v=UcpmwBOVp44&list=TLPQMjkwNzIwMjND3tvET8TH0g&index=6&ab_channel=LexClips)
 - [Learn Mathematics from START to FINISH](https://www.youtube.com/watch?v=pTnEG_WGd2Q&t=17s&ab_channel=TheMathSorcerer)
@@ -135,6 +135,9 @@
 - [Practical Python Programming](https://dabeaz-course.github.io/practical-python/Notes/Contents.html)
 - [100 Numpy Exercises](https://www.kaggle.com/code/iamteekay/100-numpy-exercises)
 - [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy)
+- for exercises:
+  - https://exercism.org/dashboard
+  - boot.dev
 
 ### ML Engineering
 
@@ -201,7 +204,7 @@
 - [How to avoid machine learning pitfalls: a guide for academic researchers (📃)](https://arxiv.org/pdf/2108.02497)
 - [Deep-ML](https://www.deep-ml.com)
 - [The ML Roadmap](https://github.com/loganthorneloe/ml-road-map)
-- [Why is machine learning 'hard'?](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
+- [Why is machine learning &#39;hard&#39;?](https://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
 - [A Gentle Introduction to Machine Learning Theory](https://data-processing.club/theory)
 - [Stanford Intro to Machine Learning](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
 - [ML Resources](https://www.trybackprop.com/blog/top_ml_learning_resources)
@@ -291,7 +294,7 @@
 - [A deep-dive on the entire history of deep-learning](https://github.com/adam-maj/deep-learning)
 - [History of Deep Learning](https://github.com/saurabhaloneai/History-of-Deep-Learning)
 - [How to Scale Your Model](https://jax-ml.github.io/scaling-book)
-- [Intuitions on Language Models & Shaping the Future of AI from the History of Transformer](https://www.youtube.com/watch?v=3gb-ZkVRemQ&ab_channel=StanfordOnline)
+- [Intuitions on Language Models &amp; Shaping the Future of AI from the History of Transformer](https://www.youtube.com/watch?v=3gb-ZkVRemQ&ab_channel=StanfordOnline)
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](https://karpathy.github.io/2015/05/21/rnn-effectiveness)
 - [Language Modeling From Scratch](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
 - [The Recurrent Neural Network - Theory and Implementation of the Elman Network and LSTM](https://pabloinsente.github.io/the-recurrent-net)
@@ -306,7 +309,7 @@
 - [[Article] Large Language Model Optimization: Memory, Compute, and Inference Techniques](https://gaurigupta19.github.io/llms/distributed%20ml/optimization/2025/10/02/efficient-ml.html)
 - [[Article] Causal inference resources](https://yanirseroussi.com/causal-inference-resources)
 - [[Book] Learning Deep Representations of Data Distributions](https://ma-lab-berkeley.github.io/deep-representation-learning-book/index.html)
-- [[Course] CME 295 - Transformers & Large Language Models](https://cme295.stanford.edu)
+- [[Course] CME 295 - Transformers &amp; Large Language Models](https://cme295.stanford.edu)
 - [[Course] CMU - Multimodal Machine Learning](https://www.youtube.com/playlist?list=PL-Fhd_vrvisMYs8A5j7sj8YW1wHhoJSmW)
 
 #### Transformers
@@ -323,14 +326,14 @@
 - [Overview of Transformers](https://www.youtube.com/watch?v=JKbtWimlzAE&list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM&index=36)
 - [Large Language Models](https://www.youtube.com/playlist?list=PLs8w1Cdi-zva4fwKkl9EK13siFvL9Wewf)
 - [Transformer Neural Networks Derived from Scratch](https://www.youtube.com/watch?v=kWLed8o5M2Y)
-- [The math behind Attention: Keys, Queries, and Values matrices](https://www.youtube.com/watch?v=UPtG_38Oq8o )
+- [The math behind Attention: Keys, Queries, and Values matrices](https://www.youtube.com/watch?v=UPtG_38Oq8o)
 
 ### Deep Reinforcement Learning
 
 - [Deep Reinforcement Learning course](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX)
 - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest)
 - [Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265)
-- [A vision researcher’s guide to some RL stuff: PPO & GRPO](https://yugeten.github.io/posts/2025/01/ppogrpo)
+- [A vision researcher’s guide to some RL stuff: PPO &amp; GRPO](https://yugeten.github.io/posts/2025/01/ppogrpo)
 - [DeepMind Reinforcement Learning Course](https://www.youtube.com/playlist?list=PLqYmG7hTraZBKeNJ-JE_eyJHZ7XgBoAyb)
 - [An Ultra Opinionated Guide to Reinforcement Learning](https://x.com/jsuarez5341/status/1943692998975402064)
 - [Reinforcement Learning Quickstart Guide](https://x.com/jsuarez5341/status/1854855861295849793)
@@ -351,7 +354,7 @@
 
 - [[Course] Machine Learning for Healthcare](https://www.edx.org/learn/machine-learning/massachusetts-institute-of-technology-machine-learning-for-healthcaregit)
 - [AI in Healthcare @ Google Brain](https://www.youtube.com/watch?v=cvXVK8oqU4Q&ab_channel=AlexanderAmini)
-- [Healthcare's AI Future: A Conversation with Fei-Fei Li & Andrew Ng](https://www.youtube.com/watch?v=Gbnep6RJinQ&ab_channel=StanfordHAI)
+- [Healthcare&#39;s AI Future: A Conversation with Fei-Fei Li &amp; Andrew Ng](https://www.youtube.com/watch?v=Gbnep6RJinQ&ab_channel=StanfordHAI)
 - [AI and the Future of Health](https://www.microsoft.com/en-us/research/blog/ai-and-the-future-of-health)
 - [Aplicações de Deep Learning a Genética](https://www.youtube.com/watch?v=GiL6RnXLjvI)
 - [Daphne Koller: Biomedicine and Machine Learning](https://www.youtube.com/watch?v=xlMTWfkQqbY&ab_channel=LexFridman)
@@ -422,9 +425,9 @@
 - [Towards Rational Drug Design with AlphaFold 3](https://www.youtube.com/watch?v=AE35XCN5NuU)
 - [How AI and accelerated computing are transforming drug discovery](https://www.ft.com/partnercontent/nvidia/how-ai-and-accelerated-computing-are-transforming-drug-discovery.html)
 - [Review and discussion of AlphaFold3](https://www.youtube.com/watch?v=qjFgthkKxcA)
-- [Understanding & discovering fold-switching proteins by combining AlphaFold2](https://www.youtube.com/watch?v=rgGceDDnIEo)
+- [Understanding &amp; discovering fold-switching proteins by combining AlphaFold2](https://www.youtube.com/watch?v=rgGceDDnIEo)
 - [Accelerating drug discovery with AI](https://www.youtube.com/watch?v=-hl0jpwWbV4)
-- [Intro to ML in Drug Discovery: Principles & Applications](https://www.youtube.com/watch?v=j-oLfEm7xD8)
+- [Intro to ML in Drug Discovery: Principles &amp; Applications](https://www.youtube.com/watch?v=j-oLfEm7xD8)
 - [Introduction to AI in Drug Discovery](https://www.youtube.com/watch?v=7NgPGh0E0XE)
 - [AlphaFold3: A foundation model for biology](https://harrisbio.substack.com/p/alphafold3-a-foundation-model-for)
 - [[Paper] Deep Learning for Drug Discovery and Cancer Research: Automated Analysis of Vascularization Images](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7904235)
@@ -442,7 +445,7 @@
 - [Deep generative models for biomolecular engineering](https://www.youtube.com/watch?v=4A51MwTuctk)
 - [Discovering New Molecules Using Graph Neural Networks](https://www.youtube.com/watch?v=fzSL7MWfXtQ)
 - [AI-Driven Drug Discovery Using Digital Biology](https://www.youtube.com/watch?v=27JMkAleyNw)
-- [Digital Biology with insitro's Daphne Koller](https://www.youtube.com/watch?v=79qJLY-30ao)
+- [Digital Biology with insitro&#39;s Daphne Koller](https://www.youtube.com/watch?v=79qJLY-30ao)
 - [AI-First: Daphne Koller’s plan to revolutionize drug discovery](https://www.youtube.com/watch?v=ukEaOOn9ZaE)
 - [[Paper] Generative models for molecular discovery: Recentadvances and challenges](https://wires.onlinelibrary.wiley.com/doi/epdf/10.1002/wcms.1608)
 - [How AI is saving billions of years of human research time](https://www.ted.com/talks/max_jaderberg_how_ai_is_saving_billions_of_years_of_human_research_time)
@@ -502,7 +505,7 @@
 
 ### Questions and Answers
 
-- [Andrew Ng's answer on "How should you start a career in Machine Learning?"](https://www.quora.com/How-should-you-start-a-career-in-Machine-Learning)
+- [Andrew Ng&#39;s answer on &#34;How should you start a career in Machine Learning?&#34;](https://www.quora.com/How-should-you-start-a-career-in-Machine-Learning)
 - [How do I learn mathematics for machine learning?](https://www.quora.com/How-do-I-learn-mathematics-for-machine-learning)
 - [How do I learn machine learning?](https://www.quora.com/How-do-I-learn-machine-learning-1)
 
@@ -592,7 +595,7 @@
 
 ### Meta
 
-- [Fei-Fei Li & Demis Hassabis: Using AI to Accelerate Scientific Discovery](https://www.youtube.com/watch?v=KHFmIknP_Hc&ab_channel=StanfordHAI)
+- [Fei-Fei Li &amp; Demis Hassabis: Using AI to Accelerate Scientific Discovery](https://www.youtube.com/watch?v=KHFmIknP_Hc&ab_channel=StanfordHAI)
 - [Science is the great giver](https://www.gatesnotes.com/European-Innovation)
 - [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
 - [Writing in the Sciences](https://www.coursera.org/learn/sciwrite)
@@ -738,7 +741,7 @@
 - [Luis Serrano](https://serrano.academy)
 - [Jiayuan Mao](https://jiayuanm.com)
 - [Edward Z. Yang](https://ezyang.com)
-- [Edward Z. Yang's blog](https://blog.ezyang.com)
+- [Edward Z. Yang&#39;s blog](https://blog.ezyang.com)
 - [Kejun Ying](https://kejunying.com)
 - [Xiang Lisa Li](https://xiangli1999.github.io)
 - [Rachel Wu](https://people.csail.mit.edu/rmwu)
