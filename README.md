@@ -138,6 +138,8 @@
 - for exercises:
   - https://exercism.org/dashboard
   - boot.dev
+  - nodeledge.ai
+  - launchschool.com
 
 ### ML Engineering
 
