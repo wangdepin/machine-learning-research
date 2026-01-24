@@ -140,6 +140,7 @@
   - boot.dev
   - nodeledge.ai
   - launchschool.com
+  - https://www.theodinproject.com/about
 
 ### ML Engineering
 
