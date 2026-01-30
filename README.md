@@ -141,6 +141,7 @@
   - nodeledge.ai
   - launchschool.com
   - https://www.theodinproject.com/about
+  - https://github.com/jwasham/coding-interview-university
 
 ### ML Engineering
 
